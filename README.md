@@ -88,3 +88,5 @@ wallet address: GRWVSxDL4rkP8QP4wDtAeXeSXq5QxPix7H43sCv7Vgn7
 
 - **Keep your mnemonic phrase secure.** It can be used to generate all associated keys.
 - **Never expose your private keys.** Handle them with care and avoid sharing them.
+
+---

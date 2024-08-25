@@ -1,7 +1,7 @@
 {
   "name": "solana-wallet-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "generate interoperable wallets on solana blockchain using security phrase",
   "main": "index.ts",
   "scripts": {
     "start": "ts-node src/index.ts",
