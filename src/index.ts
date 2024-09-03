@@ -29,5 +29,5 @@ const generateWalletKeyPairs = (noOfAcc: number) => {
   }
 }
 
-// pass number of accounts to be generated, eg: 1, 2, 3...
+// pass number of accounts to be generated, eg: 1, 2, ... n
 generateWalletKeyPairs(3)
